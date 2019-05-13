@@ -9,8 +9,8 @@ This project explain WebSocket usage via between Spring Boot server as NodeJs cl
 ### node
 * websocket
 > install : npm install websocket
-> ref : https://www.npmjs.com/package/websocket
-> mdn websocket api : https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/WebSocket
+  * ref : https://www.npmjs.com/package/websocket
+  * mdn websocket api : https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/WebSocket
 * config
 > install : npm install config
-> ref : https://www.npmjs.com/package/config
+  * ref : https://www.npmjs.com/package/config
