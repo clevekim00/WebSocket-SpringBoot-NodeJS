@@ -2,7 +2,7 @@
 This project explain WebSocket usage via between Spring Boot server as NodeJs client. 
 
 ## Development enviroment
-* spring boot : 1.5.2
+* spring boot : 1.5.4
 * nodejs : v10.15.3
 * protocol buffer : spec 3
 
@@ -14,3 +14,7 @@ This project explain WebSocket usage via between Spring Boot server as NodeJs cl
 #### config
 > install : npm install config
 ##### ref : https://www.npmjs.com/package/config
+#### protobuf
+> npm install google-protobuf
+##### ref : https://www.npmjs.com/package/google-protobuf
+
