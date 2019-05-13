@@ -12,14 +12,14 @@ This project explain WebSocket usage via between Spring Boot server as NodeJs cl
 > + java : https://developers.google.com/protocol-buffers/docs/reference/java-generated
 
 ### node
-#### websocket
+#### * websocket
 > + install : npm install websocket
 > + ref : https://www.npmjs.com/package/websocket
 > + mdn websocket api : https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/WebSocket
-#### config
+#### * config
 > + install : npm install config
 > + ref : https://www.npmjs.com/package/config
-#### protobuf
+#### * protobuf
 > + npm install google-protobuf
 > + ref : https://www.npmjs.com/package/google-protobuf
 
