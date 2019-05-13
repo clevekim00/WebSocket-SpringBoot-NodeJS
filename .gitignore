@@ -98,3 +98,4 @@ server/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml
 server/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml
 server/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_6_RELEASE.xml
 server/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml
+*.class
