@@ -1,0 +1,14 @@
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/qaplug_profiles.xml
+server/websocket-sample.iml
+server/.idea/.name
+server/.idea/encodings.xml
+server/.idea/misc.xml
+server/.idea/qaplug_profiles.xml
+server/.idea/workspace.xml
+server/.idea/compiler.xml
+server/.idea/modules.xml
+server/.idea/vcs.xml
+*.iml
