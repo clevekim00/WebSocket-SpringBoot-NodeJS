@@ -1,0 +1,15 @@
+// [START declaration]
+syntax = "proto3";
+package sample;
+// [END declaration]
+
+// [START java_declaration]
+option java_package = "me.clevekim.explain.websocket.protobuf";
+option java_outer_classname = "WebSocketSampleProto";
+// [END java_declaration]
+
+// [START messages]
+message Sample {
+    string name = 1;
+}
+// [END messages]
