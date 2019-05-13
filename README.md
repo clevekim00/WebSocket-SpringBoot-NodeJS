@@ -1,5 +1,6 @@
 # WebSocket-SpringBoot-NodeJS
-This project explain WebSocket usage via between Spring Boot server as NodeJs client. 
+This project explain WebSocket usage via between Spring Boot server as NodeJs client.
+WebSocket without Stomp.
 
 ## Development enviroment
 * spring boot : 1.5.4
