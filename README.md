@@ -6,9 +6,9 @@ This project explain WebSocket usage via between Spring Boot server as NodeJs cl
 * nodejs : v10.15.3
 * protocol buffer : 
 > + langue guide (proto3) : https://developers.google.com/protocol-buffers/docs/proto3
-+ https://developers.google.com/protocol-buffers/
-+ javascript : https://developers.google.com/protocol-buffers/docs/reference/javascript-generated
-+ java : https://developers.google.com/protocol-buffers/docs/reference/java-generated
+> + https://developers.google.com/protocol-buffers/
+> + javascript : https://developers.google.com/protocol-buffers/docs/reference/javascript-generated
+> + java : https://developers.google.com/protocol-buffers/docs/reference/java-generated
 
 ### node
 #### websocket
